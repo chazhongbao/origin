@@ -1,1 +1,1 @@
-print('this is test script')
+print('this is test scrip')
